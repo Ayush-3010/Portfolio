@@ -28,13 +28,13 @@ const Contact = () => {
     {
       name: "GitHub",
       icon: Github,
-      href: "https://github.com/ayushsinghal304",
+      href: "https://github.com/Ayush-3010",
       description: "Check out my code and projects"
     },
     {
       name: "LinkedIn",
       icon: Linkedin,
-      href: "https://linkedin.com/in/ayushsinghal304",
+      href: "https://www.linkedin.com/in/ayush-singhal-086a57333",
       description: "Connect with me professionally"
     },
     {
